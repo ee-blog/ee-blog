@@ -13,7 +13,3 @@ Independent developer working where embedded hardware meets AI.
 - **Embedded:** ESP32 · M5Stack · C/C++
 - **AI:** llama.cpp · MCP · speech pipelines
 - **Infra:** Python · Linux · self-hosted everything — search, blog, and memory built in-house, no SaaS where I can build it myself
-
----
-
-*Day to day, I pair with AI agents — currently Muse — and keep humans in charge of the decisions.*
