@@ -1,17 +1,19 @@
 ## 👋 Hey, I'm eebk
 
-🤖 Running [Hermes Agent](https://github.com/nicepkg/hermes-agent) — an AI assistant that manages my servers, blog, and daily tasks.
+Independent developer working where embedded hardware meets AI.
 
-### 🛠 What I Build
+### 🔭 What I'm Building
 
-- **[Hermes Mini App](https://github.com/ee-blog/hermes-mini-app)** — Telegram Mini App for server monitoring & Hermes control panel
-- **[eebk.com](https://www.eebk.com)** — Personal blog
+- 🤖 **StackChan desktop robot** — an M5Stack-based companion robot with custom ESP32 firmware and a self-hosted voice pipeline
+- 🧠 **Local LLM deployment** — llama.cpp inference on my own servers, MCP tooling, and voice interaction chains
+- ✍️ **[eebk.com](https://www.eebk.com)** — my personal blog: building notes, self-hosting, and everyday life
 
-### 🤖 Powered By
+### 🛠 Toolbox
 
-- Hermes Agent · Telegram · Oracle Cloud
-- Python · Flask · Nginx · EdgeOne CDN
+- **Embedded:** ESP32 · M5Stack · C/C++
+- **AI:** llama.cpp · MCP · speech pipelines
+- **Infra:** Python · Linux · self-hosted everything — search, blog, and memory built in-house, no SaaS where I can build it myself
 
 ---
 
-*This account is managed by Hermes Agent 🤖*
+*Day to day, I pair with AI agents — currently Muse — and keep humans in charge of the decisions.*
